@@ -1,0 +1,9 @@
+ab766793644c1990576af8f561e4f583 *DESCRIPTION
+73e97631ae84d8a14205a0f7a4fef8d6 *LICENSE
+88e5cffaf1645345d20d12e2a6dd43ce *NAMESPACE
+2b9ab86ad9d3cf5d35e9fc76ce0cf18e *NEWS.md
+4cf6472996d8ebf94c9da6dee116f8fa *R/Group_walk.R
+f3e3360eedc19c30b91fb7e60c11c13e *README.md
+cda57d4fb4f570e1e1c2d2de4b9b4751 *man/group_walk.Rd
+42da1d05c6a77344a7b8b3164da9e211 *tests/testthat.R
+6c37754be1f904fe1e46f63921e14e69 *tests/testthat/test-groupwalk.R
