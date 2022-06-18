@@ -1,6 +1,6 @@
 Package: groupwalk
 Title: Implement the Group Walk Algorithm
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Jack", "Freestone", email = "jfre0619@uni.sydney.edu.au", role = c("aut", "cre", "cph")),
     person("Uri", "Keich", email = "uri.keich@sydney.edu.au", role = c("aut", "cph")))
@@ -13,9 +13,9 @@ RoxygenNote: 7.1.2
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2022-02-15 08:35:38 UTC; jackfreestone
+Packaged: 2022-06-17 23:49:57 UTC; jackfreestone
 Author: Jack Freestone [aut, cre, cph],
   Uri Keich [aut, cph]
 Maintainer: Jack Freestone <jfre0619@uni.sydney.edu.au>
 Repository: CRAN
-Date/Publication: 2022-02-15 16:10:08 UTC
+Date/Publication: 2022-06-18 06:30:02 UTC
